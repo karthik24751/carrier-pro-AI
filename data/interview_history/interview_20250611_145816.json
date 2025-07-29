@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250611_145816",
+  "role": "frontend_developer",
+  "level": "entry",
+  "question": "How does event delegation work in JavaScript?",
+  "analysis": {
+    "question": "How does event delegation work in JavaScript?",
+    "selected_option": "It attaches a single event listener to a parent element, which then listens for events bubbling up from its children.",
+    "correct_option": "It attaches a single event listener to a parent element, which then listens for events bubbling up from its children.",
+    "is_correct": true,
+    "explanation": "Event delegation is a technique where you attach a single event listener to a parent element, rather than attaching separate listeners to each child element. When an event (like a click) occurs on a child element, it 'bubbles up' the DOM tree to its parent. The single event listener on the parent then catches the event and can identify which child element originally triggered it. This approach is highly efficient for dynamic lists or large numbers of elements, as it reduces memory consumption and improves performance by minimizing the number of event listeners."
+  }
+}

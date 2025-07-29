@@ -1,0 +1,74 @@
+{
+  "timestamp": "20250611_152442",
+  "user_profile": {
+    "skills": [
+      "python",
+      "java"
+    ],
+    "education": [
+      "B-tech"
+    ],
+    "interests": [
+      "frontend and backend development"
+    ]
+  },
+  "recommendations": [
+    {
+      "career": "data_scientist",
+      "score": 5.56,
+      "description": "Analyzes complex data sets to help guide business decisions.",
+      "growth_path": [
+        "data analyst",
+        "data scientist",
+        "senior data scientist",
+        "lead data scientist",
+        "data science manager"
+      ],
+      "missing_skills": [
+        "data visualization",
+        "data analysis",
+        "experiment design",
+        "statistics",
+        "natural language processing",
+        "sql",
+        "machine learning",
+        "cloud computing",
+        "deep learning",
+        "big data"
+      ],
+      "matching_skills": [
+        "python"
+      ]
+    },
+    {
+      "career": "devops_engineer",
+      "score": 2.92,
+      "description": "Manages and automates infrastructure and deployment processes.",
+      "growth_path": [
+        "devops engineer",
+        "senior devops engineer",
+        "devops architect",
+        "platform engineer",
+        "site reliability engineer"
+      ],
+      "missing_skills": [
+        "docker",
+        "gcp",
+        "containerization",
+        "shell scripting",
+        "azure",
+        "monitoring",
+        "automation",
+        "infrastructure as code",
+        "kubernetes",
+        "cloud computing",
+        "ci/cd",
+        "system administration",
+        "aws"
+      ],
+      "matching_skills": [
+        "python"
+      ]
+    }
+  ]
+}

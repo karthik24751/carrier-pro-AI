@@ -1,0 +1,25 @@
+{
+  "timestamp": "20250611_152340",
+  "role": "frontend_developer",
+  "level": "entry",
+  "question": "Describe the purpose of Webpack in a frontend project.",
+  "analysis": {
+    "question": "Describe the purpose of Webpack in a frontend project.",
+    "selected_option": "A database management system for frontend data.",
+    "correct_option": "A static module bundler for modern JavaScript applications, used to compile modules into a single bundle, manage assets, and provide development utilities.",
+    "is_correct": false,
+    "explanation": "Webpack is a powerful static module bundler for modern JavaScript applications. Its main purpose is to take various assets (JavaScript, CSS, images, fonts) and transform them into a production-ready bundle. It uses 'loaders' to process different file types and 'plugins' to perform custom operations like optimization, asset management, and environment variable injection. Webpack also offers development features like hot module replacement (HMR) for a faster development workflow.",
+    "feedback": {
+      "strengths": [],
+      "areas_for_improvement": [
+        "Consider incorporating more key concepts. Missing: webpack, module bundler, asset management",
+        "Your answer could be more detailed. Try to elaborate on your points."
+      ],
+      "specific_suggestions": [
+        "Consider structuring your answer with a clear introduction, main points, and conclusion.",
+        "For technical questions, try to include specific examples or use cases."
+      ]
+    },
+    "score": 10.9
+  }
+}
